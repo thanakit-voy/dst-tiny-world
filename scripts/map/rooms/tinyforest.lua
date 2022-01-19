@@ -61,7 +61,7 @@ AddRoom("TinyMermTown", {
         },
         distributepercent = .3,
         distributeprefabs = {
-            mermhouse = 2,
+            mermhouse = 1,
             tentacle = 1,
             reeds = 3,
             pond_mos = 0.1

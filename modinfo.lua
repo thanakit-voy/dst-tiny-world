@@ -1,7 +1,7 @@
 name = "Tiny World Preset"
 description = ""
 author = "ChubbyBunny"
-version = "1.1"
+version = "1.2"
 api_version = 10
 dst_compatible = true
 dont_starve_compatible = false
